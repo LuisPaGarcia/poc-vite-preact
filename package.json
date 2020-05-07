@@ -1,0 +1,17 @@
+{
+  "name": "vite",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "jsx": "vite --jsx-factory=h"
+  },
+  "dependencies": {
+    "preact": "^10.4.1",
+    "vue": "^3.0.0-beta.9"
+  },
+  "devDependencies": {
+    "vite": "^0.11.0",
+    "@vue/compiler-sfc": "^3.0.0-beta.9"
+  }
+}
